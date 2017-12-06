@@ -1,0 +1,4 @@
+#Thu Dec 07 06:36:19 ICT 2017
+base.0=D\:\\FILES\\DATA KULIAH\\Semester 7\\mobile\\project android\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\FILES\\DATA KULIAH\\Semester 7\\mobile\\project android\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
